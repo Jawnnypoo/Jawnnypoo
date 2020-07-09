@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Sample Gif](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif)
+- 🤖 Check out [our apps](https://play.google.com/store/apps/dev?id=8992288925330781810)
